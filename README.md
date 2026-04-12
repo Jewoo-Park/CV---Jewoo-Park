@@ -87,7 +87,7 @@ My research interests lie at the intersection of machine learning theory and mod
 ## 🪖 Others
 
 - **CS English Institution Teaching Assistant** *(Apr. 2021 – May 2025)*
-- **Republic of Korea Navy Seaman ** — Full-time Honorable Discharge *(Mar. 2022 – Nov. 2023)*
+- **Republic of Korea Navy Seaman** — Full-time Honorable Discharge *(Mar. 2022 – Nov. 2023)*
 
 ---
 
