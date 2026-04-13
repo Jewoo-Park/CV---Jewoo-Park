@@ -54,9 +54,13 @@ My research interests lie at the intersection of machine learning theory and mod
 
 ## 💼 Projects
 
-### Detecting Possibility of LLMs with ML Methods and Mid-Representations
+### PlanFit : Limitations in Context-Aware planning with LLMs
+**Mar. 2026 – May. 2026** · *LLM Applications Term Project*
+- Role: LLM Experiments Repository Construction, Paper Research
+
+### Detecting Possibility of Hallucinations in LLMs with ML Methods and Mid-Representations
 **Sep. 2025 – Dec. 2025** · *SKKU Data Science Society Main Project*
-- Role: LLM Experiments Construction
+- Role: LLM Representation Extraction
 
 ### Effect of CoT in Reasoning Tasks for LLMs
 **Sep. 2025 – Dec. 2025** · *Deep Learning 2: NLP Term Project*
