@@ -11,8 +11,8 @@ I'm an undergraduate double-majoring in **Film, TV & Multimedia** and **Applied 
 
 My research interests lie at the intersection of machine learning theory and modern AI systems:
 
-- 🔬 **Model Generalization & Robust Learning**
-- 🧠 **MLLM / LLM Reasoning**
+- 🔬 **Multi-modal Large Language Model Reasoning**
+- 🧠 **Video Understanding / Grounding**
 - 📊 **ML/DL & Data Science**
 
 ---
