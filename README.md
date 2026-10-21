@@ -94,11 +94,11 @@ My research interests lie at the intersection of machine learning theory and mod
 
 ---
 
-## 🪖 Others
+## 🎖️ Others
 
-- **SKKU Film, TV and Multimedia Football Team Leader** *(Sep. 2026 – Present)*
-- **CS English Institution Teaching Assistant** *(Apr. 2021 – Sep 2026)*
-- **Republic of Korea Navy Seaman** — Full-time Honorable Discharge *(Mar. 2022 – Nov. 2023)*
+- **SKKU Film, TV and Multimedia Football Team Leader** ⚽️ *(Sep. 2026 – Present)*
+- **CS English Institution Teaching Assistant** 📖 *(Apr. 2021 – Sep 2026)*
+- **Republic of Korea Navy Seaman** ⚓️ — Full-time Honorable Discharge *(Mar. 2022 – Nov. 2023)*
 
 ---
 
