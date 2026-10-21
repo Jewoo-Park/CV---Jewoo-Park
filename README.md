@@ -30,7 +30,12 @@ My research interests lie at the intersection of machine learning theory and mod
 ## 🔬 Research Experience
 
 ### 🏫 Nanyang Technological University — Undergraduate Researcher
-**Sep. 2025 – May 2026** · *Cosmo Lab, advised by Prof. Jaehong Yoon*
+**Sep. 2025 – Aug 2026** · *IIS Lab, advised by Prof. Jeehyeong Lee*
+- Research Topic: **Video Temporal Grounding, Video Reasoning**
+- Role: Undergraduate Researcher
+
+### 🏫 Nanyang Technological University — Undergraduate Researcher
+**Sep. 2025 – Aug 2026** · *AMI Lab, advised by Prof. Jaehong Yoon*
 - Research Topic: **Adaptive Reasoning with MLLM**
 - Role: End-to-End Researcher
 
@@ -72,6 +77,7 @@ My research interests lie at the intersection of machine learning theory and mod
 
 | Period | Organization | Activity |
 |--------|-------------|----------|
+| Sep. 2026 – Present | **SKKAI** | Multi-modal Team Member |
 | Oct. 2024 – Present | **OUTTA AI Research Center** | Computer Vision & AI Application Paper Review · Data Science Bootcamp Mentor |
 | Mar. 2025 – Jan. 2026 | **GDG (Google Developer on Campus)** | Deep Learning with CV (Michigan Online) · Talks on LLM Research & Cognitive Psychology |
 | Jul. 2025 – Feb. 2026 | **SKKU AI Society brAIn** | Paper Review Study |
@@ -90,7 +96,8 @@ My research interests lie at the intersection of machine learning theory and mod
 
 ## 🪖 Others
 
-- **CS English Institution Teaching Assistant** *(Apr. 2021 – May 2025)*
+- **SKKU Film, TV and Multimedia Football Team Leader** *(Sep. 2026 – Present)*
+- **CS English Institution Teaching Assistant** *(Apr. 2021 – Sep 2026)*
 - **Republic of Korea Navy Seaman** — Full-time Honorable Discharge *(Mar. 2022 – Nov. 2023)*
 
 ---
@@ -106,4 +113,4 @@ My research interests lie at the intersection of machine learning theory and mod
 
 ---
 
-*Last updated: April 2025*
+*Last updated: Sep. 2025*
