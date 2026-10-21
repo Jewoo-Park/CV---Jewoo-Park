@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an undergraduate double-majoring in **Film, TV & Multimedia** and **Applied Artificial Intelligence** at SKKU, currently on a research exchange at **Nanyang Technological University (NTU), Singapore**.
+I'm an undergraduate double-majoring in **Film, TV & Multimedia** and **Applied Artificial Intelligence** at SKKU.
 
 My research interests lie at the intersection of machine learning theory and modern AI systems:
 
